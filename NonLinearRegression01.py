@@ -8,7 +8,7 @@
 #   model from linear to polynomial of x-degree
 #Use: 
 #   Use the csv file BostonHousing.csv and try changing the polynomial
-#   degree at line 53, then observe how the mse, r2, and mae values change
+#   degree at line 55, then observe how the mse, r2, and mae values change
 #Pre-requisites:
 #   Run command pip install pandas scikit-learn
 
